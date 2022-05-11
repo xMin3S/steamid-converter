@@ -1,0 +1,15 @@
+{
+  "name": "steamid-converter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "github.com/xMin3S",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "steamid": "^2.0.0"
+  }
+}
